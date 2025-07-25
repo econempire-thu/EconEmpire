@@ -1,0 +1,16 @@
+@import "tailwindcss"; /* Import the Inter font */
+@font-face {
+  font-family: "ManropeVariable";
+  src: url("./assets/fonts/ManropeVariable.ttf") format("truetype");
+}
+@font-face {
+  font-family: "TelmaMedium";
+  src: url("./assets/fonts/TelmaMedium.otf") format("opentype");
+}
+
+@theme {
+  --font-default: ManropeVariable, "sans-serif";
+}
+@theme {
+  --font-telma-medium: TelmaMedium, "sans-serif";
+}

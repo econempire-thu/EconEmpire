@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "econempire-0905"
+  },
+  "targets": {
+    "econempire-0905": {
+      "hosting": {
+        "main": [
+          "econ-empire.com"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
